@@ -258,6 +258,7 @@
     <Content Include="Views\Admin\GetAllUser.cshtml" />
     <Content Include="Views\Admin\GetAllRole.cshtml" />
     <Content Include="Views\Admin\CrateUser.cshtml" />
+    <Content Include="Views\Admin\CreateRole.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
@@ -303,7 +304,7 @@
           <AutoAssignPort>True</AutoAssignPort>
           <DevelopmentServerPort>1053</DevelopmentServerPort>
           <DevelopmentServerVPath>/</DevelopmentServerVPath>
-          <IISUrl>http://localhost:1053/</IISUrl>
+          <IISUrl>http://localhost:1060/</IISUrl>
           <NTLMAuthentication>False</NTLMAuthentication>
           <UseCustomServer>False</UseCustomServer>
           <CustomServerUrl>

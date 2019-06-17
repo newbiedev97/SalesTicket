@@ -1,0 +1,5 @@
+C:\Users\Ah.Rahimi\Documents\GitHub\PACK9710\FinalProject\SaleTicket\TicketViewModel\bin\Debug\TicketViewModel.dll
+C:\Users\Ah.Rahimi\Documents\GitHub\PACK9710\FinalProject\SaleTicket\TicketViewModel\bin\Debug\TicketViewModel.pdb
+C:\Users\Ah.Rahimi\Documents\GitHub\PACK9710\FinalProject\SaleTicket\TicketViewModel\obj\Debug\TicketViewModel.csproj.CoreCompileInputs.cache
+C:\Users\Ah.Rahimi\Documents\GitHub\PACK9710\FinalProject\SaleTicket\TicketViewModel\obj\Debug\TicketViewModel.dll
+C:\Users\Ah.Rahimi\Documents\GitHub\PACK9710\FinalProject\SaleTicket\TicketViewModel\obj\Debug\TicketViewModel.pdb
