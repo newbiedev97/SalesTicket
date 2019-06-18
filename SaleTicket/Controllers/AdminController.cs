@@ -15,6 +15,7 @@ namespace SaleTicket.Controllers
         // GET: Admin
         public ActionResult Index()
         {
+            
             return View();
         }
 
@@ -36,7 +37,7 @@ namespace SaleTicket.Controllers
                                       UserName = u.UserName,
                                       Email = u.Email,
                                       EmailConfirm = u.EmailConfirm,
-                                      RoleName=string.Join(",",u.RoleName)
+                                      RoleName = string.Join(",", u.RoleName)
                                   }
             );
 
@@ -92,11 +93,34 @@ namespace SaleTicket.Controllers
             ApplicationDbContext db = new ApplicationDbContext();
             string roleName = form["txtRole"];
             var roleMgr = new RoleManager<IdentityRole>(new RoleStore<IdentityRole>(db));
-            if(!roleMgr.RoleExists(roleName))
+            if (!roleMgr.RoleExists(roleName))
             {
                 var role = new IdentityRole(roleName);
                 roleMgr.Create(role);
             }
+            return RedirectToAction("Index");
+        }
+
+        public ActionResult AssignRole()
+        {
+            ApplicationDbContext db = new ApplicationDbContext();
+            var roleList = new SelectList(db.Roles.ToList(), "Name", "Name");
+            var userList = new SelectList(db.Users.Where(u => u.Roles.Count == 0).ToList(), "Id", "UserName");
+            ViewBag.Role = roleList;
+            ViewBag.User = userList;
+            return PartialView();
+        }
+
+        [HttpPost]
+        public ActionResult AssignRole(FormCollection form)
+        {
+            ApplicationDbContext db = new ApplicationDbContext();
+            var RoleName = form["Role"];
+            var userID = form["User"];
+            ApplicationUser user = db.Users.Where(u => u.Id == userID).FirstOrDefault();
+            var userMgr = new UserManager<ApplicationUser>(new UserStore<ApplicationUser>(db));
+            userMgr.AddToRole(userID, RoleName);
+
             return RedirectToAction("Index");
         }
     }
