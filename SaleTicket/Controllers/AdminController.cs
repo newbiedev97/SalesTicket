@@ -99,5 +99,19 @@ namespace SaleTicket.Controllers
             }
             return RedirectToAction("Index");
         }
+
+        //public ActionResult CreateRole(FormCollection form)
+        //{
+        //    ApplicationDbContext db = new ApplicationDbContext();
+        //    string roleName = form["txtRole"];
+        //    var roleMgr = new RoleManager<IdentityRole>(new RoleStore<IdentityRole>(db));
+        //    if (!roleMgr.RoleExists(roleName))
+        //    {
+        //        var role = new IdentityRole(roleName);
+        //        roleMgr.Create(role);
+        //    }
+        //    return RedirectToAction("Index");
+        //}
     }
+}
 }
