@@ -105,6 +105,7 @@ namespace SaleTicket.Controllers
             return RedirectToAction("Index");
         }
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 
         public ActionResult AssignRole()
@@ -130,5 +131,21 @@ namespace SaleTicket.Controllers
             return RedirectToAction("Index");
         }
 >>>>>>> faa5d8aa0a4415c668b7d572c9eb5ca42d02a394
+=======
+
+        //public ActionResult CreateRole(FormCollection form)
+        //{
+        //    ApplicationDbContext db = new ApplicationDbContext();
+        //    string roleName = form["txtRole"];
+        //    var roleMgr = new RoleManager<IdentityRole>(new RoleStore<IdentityRole>(db));
+        //    if (!roleMgr.RoleExists(roleName))
+        //    {
+        //        var role = new IdentityRole(roleName);
+        //        roleMgr.Create(role);
+        //    }
+        //    return RedirectToAction("Index");
+        //}
+>>>>>>> 7a78325cc3ff80b80cbd06d1d58b89ef22bb2b07
     }
+}
 }
