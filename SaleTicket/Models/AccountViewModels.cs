@@ -48,6 +48,8 @@ namespace SaleTicket.Models
 
     public class LoginViewModel
     {
+
+        
         [Required]
         [Display(Name = "Email")]
         [EmailAddress]
@@ -64,6 +66,11 @@ namespace SaleTicket.Models
 
     public class RegisterViewModel
     {
+
+        [Required]
+        [Display(Name = "نام نام خانوادگی")]
+        public string FullName { get; set; }
+
         [Required]
         [EmailAddress]
         [Display(Name = "Email")]

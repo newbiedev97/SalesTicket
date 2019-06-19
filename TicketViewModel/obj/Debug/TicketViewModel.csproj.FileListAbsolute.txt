@@ -1,0 +1,14 @@
+<<<<<<< HEAD
+C:\Users\vahid Shapouri\Desktop\SalesTicket\TicketViewModel\bin\Debug\TicketViewModel.dll
+C:\Users\vahid Shapouri\Desktop\SalesTicket\TicketViewModel\bin\Debug\TicketViewModel.pdb
+C:\Users\vahid Shapouri\Desktop\SalesTicket\TicketViewModel\obj\Debug\TicketViewModel.csprojAssemblyReference.cache
+C:\Users\vahid Shapouri\Desktop\SalesTicket\TicketViewModel\obj\Debug\TicketViewModel.csproj.CoreCompileInputs.cache
+C:\Users\vahid Shapouri\Desktop\SalesTicket\TicketViewModel\obj\Debug\TicketViewModel.dll
+C:\Users\vahid Shapouri\Desktop\SalesTicket\TicketViewModel\obj\Debug\TicketViewModel.pdb
+=======
+C:\Users\Ah.Rahimi\Documents\GitHub\PACK9710\FinalProject\SaleTicket\TicketViewModel\bin\Debug\TicketViewModel.dll
+C:\Users\Ah.Rahimi\Documents\GitHub\PACK9710\FinalProject\SaleTicket\TicketViewModel\bin\Debug\TicketViewModel.pdb
+C:\Users\Ah.Rahimi\Documents\GitHub\PACK9710\FinalProject\SaleTicket\TicketViewModel\obj\Debug\TicketViewModel.csproj.CoreCompileInputs.cache
+C:\Users\Ah.Rahimi\Documents\GitHub\PACK9710\FinalProject\SaleTicket\TicketViewModel\obj\Debug\TicketViewModel.dll
+C:\Users\Ah.Rahimi\Documents\GitHub\PACK9710\FinalProject\SaleTicket\TicketViewModel\obj\Debug\TicketViewModel.pdb
+>>>>>>> 62176cb827851e35db95d6b81628acd4d3e526b2

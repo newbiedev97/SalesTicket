@@ -1,4 +1,6 @@
-﻿using SaleTicket.Models;
+﻿using Microsoft.AspNet.Identity;
+using Microsoft.AspNet.Identity.EntityFramework;
+using SaleTicket.Models;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -53,6 +55,49 @@ namespace SaleTicket.Controllers
         public ActionResult CrateUser()
         {
             return PartialView();
+        }
+
+        [HttpPost]
+        public ActionResult CrateUser(FormCollection form)
+        {
+
+            ApplicationDbContext db = new ApplicationDbContext();
+
+            var userMgr = new UserManager<ApplicationUser>(new UserStore<ApplicationUser>(db));
+
+            string FullName = form["txtName"];
+            string Email = form["txtEmail"];
+            string UserName = form["txtUserName"];
+            string password = form["txtPassword"];
+
+            var user = new ApplicationUser();
+            user.Email = Email;
+            user.UserName = UserName;
+            user.FullName = FullName;
+            userMgr.Create(user, password);
+
+
+
+            return RedirectToAction("Index");
+        }
+
+        public ActionResult CreateRole()
+        {
+            return PartialView();
+        }
+
+        [HttpPost]
+        public ActionResult CreateRole(FormCollection form)
+        {
+            ApplicationDbContext db = new ApplicationDbContext();
+            string roleName = form["txtRole"];
+            var roleMgr = new RoleManager<IdentityRole>(new RoleStore<IdentityRole>(db));
+            if(!roleMgr.RoleExists(roleName))
+            {
+                var role = new IdentityRole(roleName);
+                roleMgr.Create(role);
+            }
+            return RedirectToAction("Index");
         }
     }
 }

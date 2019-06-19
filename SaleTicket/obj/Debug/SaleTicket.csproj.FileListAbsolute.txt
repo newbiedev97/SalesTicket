@@ -1,0 +1,358 @@
+<<<<<<< HEAD
+C:\Users\vahid Shapouri\Desktop\SalesTicket\SaleTicket\bin\SaleTicket.dll.config
+C:\Users\vahid Shapouri\Desktop\SalesTicket\SaleTicket\bin\SaleTicket.dll
+C:\Users\vahid Shapouri\Desktop\SalesTicket\SaleTicket\bin\SaleTicket.pdb
+C:\Users\vahid Shapouri\Desktop\SalesTicket\SaleTicket\bin\roslyn\csc.exe
+C:\Users\vahid Shapouri\Desktop\SalesTicket\SaleTicket\bin\roslyn\csc.exe.config
+C:\Users\vahid Shapouri\Desktop\SalesTicket\SaleTicket\bin\roslyn\csc.rsp
+C:\Users\vahid Shapouri\Desktop\SalesTicket\SaleTicket\bin\roslyn\csi.exe
+C:\Users\vahid Shapouri\Desktop\SalesTicket\SaleTicket\bin\roslyn\csi.exe.config
+C:\Users\vahid Shapouri\Desktop\SalesTicket\SaleTicket\bin\roslyn\csi.rsp
+C:\Users\vahid Shapouri\Desktop\SalesTicket\SaleTicket\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\vahid Shapouri\Desktop\SalesTicket\SaleTicket\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\vahid Shapouri\Desktop\SalesTicket\SaleTicket\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\vahid Shapouri\Desktop\SalesTicket\SaleTicket\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\vahid Shapouri\Desktop\SalesTicket\SaleTicket\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\vahid Shapouri\Desktop\SalesTicket\SaleTicket\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\vahid Shapouri\Desktop\SalesTicket\SaleTicket\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\vahid Shapouri\Desktop\SalesTicket\SaleTicket\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\vahid Shapouri\Desktop\SalesTicket\SaleTicket\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\vahid Shapouri\Desktop\SalesTicket\SaleTicket\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\vahid Shapouri\Desktop\SalesTicket\SaleTicket\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\vahid Shapouri\Desktop\SalesTicket\SaleTicket\bin\roslyn\System.AppContext.dll
+C:\Users\vahid Shapouri\Desktop\SalesTicket\SaleTicket\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\vahid Shapouri\Desktop\SalesTicket\SaleTicket\bin\roslyn\System.Console.dll
+C:\Users\vahid Shapouri\Desktop\SalesTicket\SaleTicket\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\vahid Shapouri\Desktop\SalesTicket\SaleTicket\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\vahid Shapouri\Desktop\SalesTicket\SaleTicket\bin\roslyn\System.IO.Compression.dll
+C:\Users\vahid Shapouri\Desktop\SalesTicket\SaleTicket\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\vahid Shapouri\Desktop\SalesTicket\SaleTicket\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\vahid Shapouri\Desktop\SalesTicket\SaleTicket\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\vahid Shapouri\Desktop\SalesTicket\SaleTicket\bin\roslyn\System.IO.Pipes.dll
+C:\Users\vahid Shapouri\Desktop\SalesTicket\SaleTicket\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\vahid Shapouri\Desktop\SalesTicket\SaleTicket\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\vahid Shapouri\Desktop\SalesTicket\SaleTicket\bin\roslyn\System.Security.Claims.dll
+C:\Users\vahid Shapouri\Desktop\SalesTicket\SaleTicket\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\vahid Shapouri\Desktop\SalesTicket\SaleTicket\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\vahid Shapouri\Desktop\SalesTicket\SaleTicket\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\vahid Shapouri\Desktop\SalesTicket\SaleTicket\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\vahid Shapouri\Desktop\SalesTicket\SaleTicket\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\vahid Shapouri\Desktop\SalesTicket\SaleTicket\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\vahid Shapouri\Desktop\SalesTicket\SaleTicket\bin\roslyn\System.ValueTuple.dll
+C:\Users\vahid Shapouri\Desktop\SalesTicket\SaleTicket\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\vahid Shapouri\Desktop\SalesTicket\SaleTicket\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\vahid Shapouri\Desktop\SalesTicket\SaleTicket\bin\roslyn\System.Xml.XPath.dll
+C:\Users\vahid Shapouri\Desktop\SalesTicket\SaleTicket\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\vahid Shapouri\Desktop\SalesTicket\SaleTicket\bin\roslyn\vbc.exe
+C:\Users\vahid Shapouri\Desktop\SalesTicket\SaleTicket\bin\roslyn\vbc.exe.config
+C:\Users\vahid Shapouri\Desktop\SalesTicket\SaleTicket\bin\roslyn\vbc.rsp
+C:\Users\vahid Shapouri\Desktop\SalesTicket\SaleTicket\bin\roslyn\VBCSCompiler.exe
+C:\Users\vahid Shapouri\Desktop\SalesTicket\SaleTicket\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\vahid Shapouri\Desktop\SalesTicket\SaleTicket\bin\Antlr3.Runtime.dll
+C:\Users\vahid Shapouri\Desktop\SalesTicket\SaleTicket\bin\EntityFramework.dll
+C:\Users\vahid Shapouri\Desktop\SalesTicket\SaleTicket\bin\EntityFramework.SqlServer.dll
+C:\Users\vahid Shapouri\Desktop\SalesTicket\SaleTicket\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\vahid Shapouri\Desktop\SalesTicket\SaleTicket\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\vahid Shapouri\Desktop\SalesTicket\SaleTicket\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\vahid Shapouri\Desktop\SalesTicket\SaleTicket\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\vahid Shapouri\Desktop\SalesTicket\SaleTicket\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\vahid Shapouri\Desktop\SalesTicket\SaleTicket\bin\Microsoft.Owin.dll
+C:\Users\vahid Shapouri\Desktop\SalesTicket\SaleTicket\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\vahid Shapouri\Desktop\SalesTicket\SaleTicket\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\vahid Shapouri\Desktop\SalesTicket\SaleTicket\bin\Microsoft.Owin.Security.dll
+C:\Users\vahid Shapouri\Desktop\SalesTicket\SaleTicket\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\vahid Shapouri\Desktop\SalesTicket\SaleTicket\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\vahid Shapouri\Desktop\SalesTicket\SaleTicket\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\vahid Shapouri\Desktop\SalesTicket\SaleTicket\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\vahid Shapouri\Desktop\SalesTicket\SaleTicket\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\vahid Shapouri\Desktop\SalesTicket\SaleTicket\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\vahid Shapouri\Desktop\SalesTicket\SaleTicket\bin\Newtonsoft.Json.dll
+C:\Users\vahid Shapouri\Desktop\SalesTicket\SaleTicket\bin\Owin.dll
+C:\Users\vahid Shapouri\Desktop\SalesTicket\SaleTicket\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\vahid Shapouri\Desktop\SalesTicket\SaleTicket\bin\System.Net.Http.Formatting.dll
+C:\Users\vahid Shapouri\Desktop\SalesTicket\SaleTicket\bin\System.Web.Helpers.dll
+C:\Users\vahid Shapouri\Desktop\SalesTicket\SaleTicket\bin\System.Web.Http.dll
+C:\Users\vahid Shapouri\Desktop\SalesTicket\SaleTicket\bin\System.Web.Http.WebHost.dll
+C:\Users\vahid Shapouri\Desktop\SalesTicket\SaleTicket\bin\System.Web.Mvc.dll
+C:\Users\vahid Shapouri\Desktop\SalesTicket\SaleTicket\bin\System.Web.Optimization.dll
+C:\Users\vahid Shapouri\Desktop\SalesTicket\SaleTicket\bin\System.Web.Razor.dll
+C:\Users\vahid Shapouri\Desktop\SalesTicket\SaleTicket\bin\System.Web.WebPages.Deployment.dll
+C:\Users\vahid Shapouri\Desktop\SalesTicket\SaleTicket\bin\System.Web.WebPages.dll
+C:\Users\vahid Shapouri\Desktop\SalesTicket\SaleTicket\bin\System.Web.WebPages.Razor.dll
+C:\Users\vahid Shapouri\Desktop\SalesTicket\SaleTicket\bin\TicketDataLayer.dll
+C:\Users\vahid Shapouri\Desktop\SalesTicket\SaleTicket\bin\TicketViewModel.dll
+C:\Users\vahid Shapouri\Desktop\SalesTicket\SaleTicket\bin\WebGrease.dll
+C:\Users\vahid Shapouri\Desktop\SalesTicket\SaleTicket\bin\TicketDataLayer.pdb
+C:\Users\vahid Shapouri\Desktop\SalesTicket\SaleTicket\bin\TicketDataLayer.dll.config
+C:\Users\vahid Shapouri\Desktop\SalesTicket\SaleTicket\bin\TicketViewModel.pdb
+C:\Users\vahid Shapouri\Desktop\SalesTicket\SaleTicket\bin\System.Web.Helpers.xml
+C:\Users\vahid Shapouri\Desktop\SalesTicket\SaleTicket\bin\System.Web.Mvc.xml
+C:\Users\vahid Shapouri\Desktop\SalesTicket\SaleTicket\bin\System.Web.Optimization.xml
+C:\Users\vahid Shapouri\Desktop\SalesTicket\SaleTicket\bin\System.Web.Razor.xml
+C:\Users\vahid Shapouri\Desktop\SalesTicket\SaleTicket\bin\System.Web.WebPages.xml
+C:\Users\vahid Shapouri\Desktop\SalesTicket\SaleTicket\bin\System.Web.WebPages.Deployment.xml
+C:\Users\vahid Shapouri\Desktop\SalesTicket\SaleTicket\bin\System.Web.WebPages.Razor.xml
+C:\Users\vahid Shapouri\Desktop\SalesTicket\SaleTicket\bin\Newtonsoft.Json.xml
+C:\Users\vahid Shapouri\Desktop\SalesTicket\SaleTicket\bin\Antlr3.Runtime.pdb
+C:\Users\vahid Shapouri\Desktop\SalesTicket\SaleTicket\bin\System.Net.Http.Formatting.xml
+C:\Users\vahid Shapouri\Desktop\SalesTicket\SaleTicket\bin\System.Web.Http.xml
+C:\Users\vahid Shapouri\Desktop\SalesTicket\SaleTicket\bin\System.Web.Http.WebHost.xml
+C:\Users\vahid Shapouri\Desktop\SalesTicket\SaleTicket\bin\EntityFramework.xml
+C:\Users\vahid Shapouri\Desktop\SalesTicket\SaleTicket\bin\EntityFramework.SqlServer.xml
+C:\Users\vahid Shapouri\Desktop\SalesTicket\SaleTicket\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\vahid Shapouri\Desktop\SalesTicket\SaleTicket\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\vahid Shapouri\Desktop\SalesTicket\SaleTicket\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\vahid Shapouri\Desktop\SalesTicket\SaleTicket\bin\Microsoft.Owin.xml
+C:\Users\vahid Shapouri\Desktop\SalesTicket\SaleTicket\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\vahid Shapouri\Desktop\SalesTicket\SaleTicket\bin\Microsoft.Owin.Security.xml
+C:\Users\vahid Shapouri\Desktop\SalesTicket\SaleTicket\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\vahid Shapouri\Desktop\SalesTicket\SaleTicket\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\vahid Shapouri\Desktop\SalesTicket\SaleTicket\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\vahid Shapouri\Desktop\SalesTicket\SaleTicket\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\vahid Shapouri\Desktop\SalesTicket\SaleTicket\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\vahid Shapouri\Desktop\SalesTicket\SaleTicket\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\vahid Shapouri\Desktop\SalesTicket\SaleTicket\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\vahid Shapouri\Desktop\SalesTicket\SaleTicket\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\vahid Shapouri\Desktop\SalesTicket\SaleTicket\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\vahid Shapouri\Desktop\SalesTicket\SaleTicket\obj\Debug\SaleTicket.csprojAssemblyReference.cache
+C:\Users\vahid Shapouri\Desktop\SalesTicket\SaleTicket\obj\Debug\SaleTicket.csproj.CoreCompileInputs.cache
+C:\Users\vahid Shapouri\Desktop\SalesTicket\SaleTicket\obj\Debug\SaleTicket.csproj.CopyComplete
+C:\Users\vahid Shapouri\Desktop\SalesTicket\SaleTicket\obj\Debug\SaleTicket.dll
+C:\Users\vahid Shapouri\Desktop\SalesTicket\SaleTicket\obj\Debug\SaleTicket.pdb
+=======
+C:\Users\Ah.Rahimi\Source\Repos\FinalProject\SaleTicket\SaleTicket\bin\SaleTicket.dll.config
+C:\Users\Ah.Rahimi\Source\Repos\FinalProject\SaleTicket\SaleTicket\bin\SaleTicket.dll
+C:\Users\Ah.Rahimi\Source\Repos\FinalProject\SaleTicket\SaleTicket\bin\SaleTicket.pdb
+C:\Users\Ah.Rahimi\Source\Repos\FinalProject\SaleTicket\SaleTicket\bin\roslyn\csc.exe
+C:\Users\Ah.Rahimi\Source\Repos\FinalProject\SaleTicket\SaleTicket\bin\roslyn\csc.exe.config
+C:\Users\Ah.Rahimi\Source\Repos\FinalProject\SaleTicket\SaleTicket\bin\roslyn\csc.rsp
+C:\Users\Ah.Rahimi\Source\Repos\FinalProject\SaleTicket\SaleTicket\bin\roslyn\csi.exe
+C:\Users\Ah.Rahimi\Source\Repos\FinalProject\SaleTicket\SaleTicket\bin\roslyn\csi.exe.config
+C:\Users\Ah.Rahimi\Source\Repos\FinalProject\SaleTicket\SaleTicket\bin\roslyn\csi.rsp
+C:\Users\Ah.Rahimi\Source\Repos\FinalProject\SaleTicket\SaleTicket\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Ah.Rahimi\Source\Repos\FinalProject\SaleTicket\SaleTicket\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Ah.Rahimi\Source\Repos\FinalProject\SaleTicket\SaleTicket\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Ah.Rahimi\Source\Repos\FinalProject\SaleTicket\SaleTicket\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Ah.Rahimi\Source\Repos\FinalProject\SaleTicket\SaleTicket\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Ah.Rahimi\Source\Repos\FinalProject\SaleTicket\SaleTicket\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Ah.Rahimi\Source\Repos\FinalProject\SaleTicket\SaleTicket\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Ah.Rahimi\Source\Repos\FinalProject\SaleTicket\SaleTicket\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Ah.Rahimi\Source\Repos\FinalProject\SaleTicket\SaleTicket\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Ah.Rahimi\Source\Repos\FinalProject\SaleTicket\SaleTicket\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Ah.Rahimi\Source\Repos\FinalProject\SaleTicket\SaleTicket\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Ah.Rahimi\Source\Repos\FinalProject\SaleTicket\SaleTicket\bin\roslyn\System.AppContext.dll
+C:\Users\Ah.Rahimi\Source\Repos\FinalProject\SaleTicket\SaleTicket\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Ah.Rahimi\Source\Repos\FinalProject\SaleTicket\SaleTicket\bin\roslyn\System.Console.dll
+C:\Users\Ah.Rahimi\Source\Repos\FinalProject\SaleTicket\SaleTicket\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Ah.Rahimi\Source\Repos\FinalProject\SaleTicket\SaleTicket\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Ah.Rahimi\Source\Repos\FinalProject\SaleTicket\SaleTicket\bin\roslyn\System.IO.Compression.dll
+C:\Users\Ah.Rahimi\Source\Repos\FinalProject\SaleTicket\SaleTicket\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Ah.Rahimi\Source\Repos\FinalProject\SaleTicket\SaleTicket\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Ah.Rahimi\Source\Repos\FinalProject\SaleTicket\SaleTicket\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Ah.Rahimi\Source\Repos\FinalProject\SaleTicket\SaleTicket\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Ah.Rahimi\Source\Repos\FinalProject\SaleTicket\SaleTicket\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Ah.Rahimi\Source\Repos\FinalProject\SaleTicket\SaleTicket\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Ah.Rahimi\Source\Repos\FinalProject\SaleTicket\SaleTicket\bin\roslyn\System.Security.Claims.dll
+C:\Users\Ah.Rahimi\Source\Repos\FinalProject\SaleTicket\SaleTicket\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Ah.Rahimi\Source\Repos\FinalProject\SaleTicket\SaleTicket\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Ah.Rahimi\Source\Repos\FinalProject\SaleTicket\SaleTicket\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Ah.Rahimi\Source\Repos\FinalProject\SaleTicket\SaleTicket\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Ah.Rahimi\Source\Repos\FinalProject\SaleTicket\SaleTicket\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Ah.Rahimi\Source\Repos\FinalProject\SaleTicket\SaleTicket\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Ah.Rahimi\Source\Repos\FinalProject\SaleTicket\SaleTicket\bin\roslyn\System.ValueTuple.dll
+C:\Users\Ah.Rahimi\Source\Repos\FinalProject\SaleTicket\SaleTicket\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Ah.Rahimi\Source\Repos\FinalProject\SaleTicket\SaleTicket\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Ah.Rahimi\Source\Repos\FinalProject\SaleTicket\SaleTicket\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Ah.Rahimi\Source\Repos\FinalProject\SaleTicket\SaleTicket\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Ah.Rahimi\Source\Repos\FinalProject\SaleTicket\SaleTicket\bin\roslyn\vbc.exe
+C:\Users\Ah.Rahimi\Source\Repos\FinalProject\SaleTicket\SaleTicket\bin\roslyn\vbc.exe.config
+C:\Users\Ah.Rahimi\Source\Repos\FinalProject\SaleTicket\SaleTicket\bin\roslyn\vbc.rsp
+C:\Users\Ah.Rahimi\Source\Repos\FinalProject\SaleTicket\SaleTicket\bin\roslyn\VBCSCompiler.exe
+C:\Users\Ah.Rahimi\Source\Repos\FinalProject\SaleTicket\SaleTicket\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Ah.Rahimi\Source\Repos\FinalProject\SaleTicket\SaleTicket\bin\Antlr3.Runtime.dll
+C:\Users\Ah.Rahimi\Source\Repos\FinalProject\SaleTicket\SaleTicket\bin\EntityFramework.dll
+C:\Users\Ah.Rahimi\Source\Repos\FinalProject\SaleTicket\SaleTicket\bin\EntityFramework.SqlServer.dll
+C:\Users\Ah.Rahimi\Source\Repos\FinalProject\SaleTicket\SaleTicket\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Ah.Rahimi\Source\Repos\FinalProject\SaleTicket\SaleTicket\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Ah.Rahimi\Source\Repos\FinalProject\SaleTicket\SaleTicket\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Ah.Rahimi\Source\Repos\FinalProject\SaleTicket\SaleTicket\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\Ah.Rahimi\Source\Repos\FinalProject\SaleTicket\SaleTicket\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Ah.Rahimi\Source\Repos\FinalProject\SaleTicket\SaleTicket\bin\Microsoft.Owin.dll
+C:\Users\Ah.Rahimi\Source\Repos\FinalProject\SaleTicket\SaleTicket\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Ah.Rahimi\Source\Repos\FinalProject\SaleTicket\SaleTicket\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Ah.Rahimi\Source\Repos\FinalProject\SaleTicket\SaleTicket\bin\Microsoft.Owin.Security.dll
+C:\Users\Ah.Rahimi\Source\Repos\FinalProject\SaleTicket\SaleTicket\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Ah.Rahimi\Source\Repos\FinalProject\SaleTicket\SaleTicket\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Ah.Rahimi\Source\Repos\FinalProject\SaleTicket\SaleTicket\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Ah.Rahimi\Source\Repos\FinalProject\SaleTicket\SaleTicket\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Ah.Rahimi\Source\Repos\FinalProject\SaleTicket\SaleTicket\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Ah.Rahimi\Source\Repos\FinalProject\SaleTicket\SaleTicket\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Ah.Rahimi\Source\Repos\FinalProject\SaleTicket\SaleTicket\bin\Newtonsoft.Json.dll
+C:\Users\Ah.Rahimi\Source\Repos\FinalProject\SaleTicket\SaleTicket\bin\Owin.dll
+C:\Users\Ah.Rahimi\Source\Repos\FinalProject\SaleTicket\SaleTicket\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Ah.Rahimi\Source\Repos\FinalProject\SaleTicket\SaleTicket\bin\System.Net.Http.Formatting.dll
+C:\Users\Ah.Rahimi\Source\Repos\FinalProject\SaleTicket\SaleTicket\bin\System.Web.Helpers.dll
+C:\Users\Ah.Rahimi\Source\Repos\FinalProject\SaleTicket\SaleTicket\bin\System.Web.Http.dll
+C:\Users\Ah.Rahimi\Source\Repos\FinalProject\SaleTicket\SaleTicket\bin\System.Web.Http.WebHost.dll
+C:\Users\Ah.Rahimi\Source\Repos\FinalProject\SaleTicket\SaleTicket\bin\System.Web.Mvc.dll
+C:\Users\Ah.Rahimi\Source\Repos\FinalProject\SaleTicket\SaleTicket\bin\System.Web.Optimization.dll
+C:\Users\Ah.Rahimi\Source\Repos\FinalProject\SaleTicket\SaleTicket\bin\System.Web.Razor.dll
+C:\Users\Ah.Rahimi\Source\Repos\FinalProject\SaleTicket\SaleTicket\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Ah.Rahimi\Source\Repos\FinalProject\SaleTicket\SaleTicket\bin\System.Web.WebPages.dll
+C:\Users\Ah.Rahimi\Source\Repos\FinalProject\SaleTicket\SaleTicket\bin\System.Web.WebPages.Razor.dll
+C:\Users\Ah.Rahimi\Source\Repos\FinalProject\SaleTicket\SaleTicket\bin\WebGrease.dll
+C:\Users\Ah.Rahimi\Source\Repos\FinalProject\SaleTicket\SaleTicket\bin\System.Web.Helpers.xml
+C:\Users\Ah.Rahimi\Source\Repos\FinalProject\SaleTicket\SaleTicket\bin\System.Web.Mvc.xml
+C:\Users\Ah.Rahimi\Source\Repos\FinalProject\SaleTicket\SaleTicket\bin\System.Web.Optimization.xml
+C:\Users\Ah.Rahimi\Source\Repos\FinalProject\SaleTicket\SaleTicket\bin\System.Web.Razor.xml
+C:\Users\Ah.Rahimi\Source\Repos\FinalProject\SaleTicket\SaleTicket\bin\System.Web.WebPages.xml
+C:\Users\Ah.Rahimi\Source\Repos\FinalProject\SaleTicket\SaleTicket\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Ah.Rahimi\Source\Repos\FinalProject\SaleTicket\SaleTicket\bin\System.Web.WebPages.Razor.xml
+C:\Users\Ah.Rahimi\Source\Repos\FinalProject\SaleTicket\SaleTicket\bin\Newtonsoft.Json.xml
+C:\Users\Ah.Rahimi\Source\Repos\FinalProject\SaleTicket\SaleTicket\bin\Antlr3.Runtime.pdb
+C:\Users\Ah.Rahimi\Source\Repos\FinalProject\SaleTicket\SaleTicket\bin\System.Net.Http.Formatting.xml
+C:\Users\Ah.Rahimi\Source\Repos\FinalProject\SaleTicket\SaleTicket\bin\System.Web.Http.xml
+C:\Users\Ah.Rahimi\Source\Repos\FinalProject\SaleTicket\SaleTicket\bin\System.Web.Http.WebHost.xml
+C:\Users\Ah.Rahimi\Source\Repos\FinalProject\SaleTicket\SaleTicket\bin\EntityFramework.xml
+C:\Users\Ah.Rahimi\Source\Repos\FinalProject\SaleTicket\SaleTicket\bin\EntityFramework.SqlServer.xml
+C:\Users\Ah.Rahimi\Source\Repos\FinalProject\SaleTicket\SaleTicket\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Ah.Rahimi\Source\Repos\FinalProject\SaleTicket\SaleTicket\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Ah.Rahimi\Source\Repos\FinalProject\SaleTicket\SaleTicket\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Ah.Rahimi\Source\Repos\FinalProject\SaleTicket\SaleTicket\bin\Microsoft.Owin.xml
+C:\Users\Ah.Rahimi\Source\Repos\FinalProject\SaleTicket\SaleTicket\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Ah.Rahimi\Source\Repos\FinalProject\SaleTicket\SaleTicket\bin\Microsoft.Owin.Security.xml
+C:\Users\Ah.Rahimi\Source\Repos\FinalProject\SaleTicket\SaleTicket\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Ah.Rahimi\Source\Repos\FinalProject\SaleTicket\SaleTicket\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Ah.Rahimi\Source\Repos\FinalProject\SaleTicket\SaleTicket\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Ah.Rahimi\Source\Repos\FinalProject\SaleTicket\SaleTicket\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Ah.Rahimi\Source\Repos\FinalProject\SaleTicket\SaleTicket\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Ah.Rahimi\Source\Repos\FinalProject\SaleTicket\SaleTicket\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Ah.Rahimi\Source\Repos\FinalProject\SaleTicket\SaleTicket\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Ah.Rahimi\Source\Repos\FinalProject\SaleTicket\SaleTicket\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Ah.Rahimi\Source\Repos\FinalProject\SaleTicket\SaleTicket\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Ah.Rahimi\Source\Repos\FinalProject\SaleTicket\SaleTicket\obj\Debug\SaleTicket.csprojAssemblyReference.cache
+C:\Users\Ah.Rahimi\Source\Repos\FinalProject\SaleTicket\SaleTicket\obj\Debug\SaleTicket.csproj.CoreCompileInputs.cache
+C:\Users\Ah.Rahimi\Source\Repos\FinalProject\SaleTicket\SaleTicket\obj\Debug\SaleTicket.csproj.CopyComplete
+C:\Users\Ah.Rahimi\Source\Repos\FinalProject\SaleTicket\SaleTicket\obj\Debug\SaleTicket.dll
+C:\Users\Ah.Rahimi\Source\Repos\FinalProject\SaleTicket\SaleTicket\obj\Debug\SaleTicket.pdb
+C:\Users\Ah.Rahimi\Documents\GitHub\PACK9710\FinalProject\SaleTicket\SaleTicket\bin\SaleTicket.dll.config
+C:\Users\Ah.Rahimi\Documents\GitHub\PACK9710\FinalProject\SaleTicket\SaleTicket\bin\SaleTicket.dll
+C:\Users\Ah.Rahimi\Documents\GitHub\PACK9710\FinalProject\SaleTicket\SaleTicket\bin\SaleTicket.pdb
+C:\Users\Ah.Rahimi\Documents\GitHub\PACK9710\FinalProject\SaleTicket\SaleTicket\bin\roslyn\csc.exe
+C:\Users\Ah.Rahimi\Documents\GitHub\PACK9710\FinalProject\SaleTicket\SaleTicket\bin\roslyn\csc.exe.config
+C:\Users\Ah.Rahimi\Documents\GitHub\PACK9710\FinalProject\SaleTicket\SaleTicket\bin\roslyn\csc.rsp
+C:\Users\Ah.Rahimi\Documents\GitHub\PACK9710\FinalProject\SaleTicket\SaleTicket\bin\roslyn\csi.exe
+C:\Users\Ah.Rahimi\Documents\GitHub\PACK9710\FinalProject\SaleTicket\SaleTicket\bin\roslyn\csi.exe.config
+C:\Users\Ah.Rahimi\Documents\GitHub\PACK9710\FinalProject\SaleTicket\SaleTicket\bin\roslyn\csi.rsp
+C:\Users\Ah.Rahimi\Documents\GitHub\PACK9710\FinalProject\SaleTicket\SaleTicket\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Ah.Rahimi\Documents\GitHub\PACK9710\FinalProject\SaleTicket\SaleTicket\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Ah.Rahimi\Documents\GitHub\PACK9710\FinalProject\SaleTicket\SaleTicket\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Ah.Rahimi\Documents\GitHub\PACK9710\FinalProject\SaleTicket\SaleTicket\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Ah.Rahimi\Documents\GitHub\PACK9710\FinalProject\SaleTicket\SaleTicket\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Ah.Rahimi\Documents\GitHub\PACK9710\FinalProject\SaleTicket\SaleTicket\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Ah.Rahimi\Documents\GitHub\PACK9710\FinalProject\SaleTicket\SaleTicket\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Ah.Rahimi\Documents\GitHub\PACK9710\FinalProject\SaleTicket\SaleTicket\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Ah.Rahimi\Documents\GitHub\PACK9710\FinalProject\SaleTicket\SaleTicket\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Ah.Rahimi\Documents\GitHub\PACK9710\FinalProject\SaleTicket\SaleTicket\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Ah.Rahimi\Documents\GitHub\PACK9710\FinalProject\SaleTicket\SaleTicket\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Ah.Rahimi\Documents\GitHub\PACK9710\FinalProject\SaleTicket\SaleTicket\bin\roslyn\System.AppContext.dll
+C:\Users\Ah.Rahimi\Documents\GitHub\PACK9710\FinalProject\SaleTicket\SaleTicket\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Ah.Rahimi\Documents\GitHub\PACK9710\FinalProject\SaleTicket\SaleTicket\bin\roslyn\System.Console.dll
+C:\Users\Ah.Rahimi\Documents\GitHub\PACK9710\FinalProject\SaleTicket\SaleTicket\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Ah.Rahimi\Documents\GitHub\PACK9710\FinalProject\SaleTicket\SaleTicket\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Ah.Rahimi\Documents\GitHub\PACK9710\FinalProject\SaleTicket\SaleTicket\bin\roslyn\System.IO.Compression.dll
+C:\Users\Ah.Rahimi\Documents\GitHub\PACK9710\FinalProject\SaleTicket\SaleTicket\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Ah.Rahimi\Documents\GitHub\PACK9710\FinalProject\SaleTicket\SaleTicket\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Ah.Rahimi\Documents\GitHub\PACK9710\FinalProject\SaleTicket\SaleTicket\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Ah.Rahimi\Documents\GitHub\PACK9710\FinalProject\SaleTicket\SaleTicket\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Ah.Rahimi\Documents\GitHub\PACK9710\FinalProject\SaleTicket\SaleTicket\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Ah.Rahimi\Documents\GitHub\PACK9710\FinalProject\SaleTicket\SaleTicket\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Ah.Rahimi\Documents\GitHub\PACK9710\FinalProject\SaleTicket\SaleTicket\bin\roslyn\System.Security.Claims.dll
+C:\Users\Ah.Rahimi\Documents\GitHub\PACK9710\FinalProject\SaleTicket\SaleTicket\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Ah.Rahimi\Documents\GitHub\PACK9710\FinalProject\SaleTicket\SaleTicket\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Ah.Rahimi\Documents\GitHub\PACK9710\FinalProject\SaleTicket\SaleTicket\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Ah.Rahimi\Documents\GitHub\PACK9710\FinalProject\SaleTicket\SaleTicket\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Ah.Rahimi\Documents\GitHub\PACK9710\FinalProject\SaleTicket\SaleTicket\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Ah.Rahimi\Documents\GitHub\PACK9710\FinalProject\SaleTicket\SaleTicket\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Ah.Rahimi\Documents\GitHub\PACK9710\FinalProject\SaleTicket\SaleTicket\bin\roslyn\System.ValueTuple.dll
+C:\Users\Ah.Rahimi\Documents\GitHub\PACK9710\FinalProject\SaleTicket\SaleTicket\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Ah.Rahimi\Documents\GitHub\PACK9710\FinalProject\SaleTicket\SaleTicket\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Ah.Rahimi\Documents\GitHub\PACK9710\FinalProject\SaleTicket\SaleTicket\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Ah.Rahimi\Documents\GitHub\PACK9710\FinalProject\SaleTicket\SaleTicket\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Ah.Rahimi\Documents\GitHub\PACK9710\FinalProject\SaleTicket\SaleTicket\bin\roslyn\vbc.exe
+C:\Users\Ah.Rahimi\Documents\GitHub\PACK9710\FinalProject\SaleTicket\SaleTicket\bin\roslyn\vbc.exe.config
+C:\Users\Ah.Rahimi\Documents\GitHub\PACK9710\FinalProject\SaleTicket\SaleTicket\bin\roslyn\vbc.rsp
+C:\Users\Ah.Rahimi\Documents\GitHub\PACK9710\FinalProject\SaleTicket\SaleTicket\bin\roslyn\VBCSCompiler.exe
+C:\Users\Ah.Rahimi\Documents\GitHub\PACK9710\FinalProject\SaleTicket\SaleTicket\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Ah.Rahimi\Documents\GitHub\PACK9710\FinalProject\SaleTicket\SaleTicket\bin\Antlr3.Runtime.dll
+C:\Users\Ah.Rahimi\Documents\GitHub\PACK9710\FinalProject\SaleTicket\SaleTicket\bin\EntityFramework.dll
+C:\Users\Ah.Rahimi\Documents\GitHub\PACK9710\FinalProject\SaleTicket\SaleTicket\bin\EntityFramework.SqlServer.dll
+C:\Users\Ah.Rahimi\Documents\GitHub\PACK9710\FinalProject\SaleTicket\SaleTicket\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Ah.Rahimi\Documents\GitHub\PACK9710\FinalProject\SaleTicket\SaleTicket\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Ah.Rahimi\Documents\GitHub\PACK9710\FinalProject\SaleTicket\SaleTicket\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Ah.Rahimi\Documents\GitHub\PACK9710\FinalProject\SaleTicket\SaleTicket\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\Ah.Rahimi\Documents\GitHub\PACK9710\FinalProject\SaleTicket\SaleTicket\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Ah.Rahimi\Documents\GitHub\PACK9710\FinalProject\SaleTicket\SaleTicket\bin\Microsoft.Owin.dll
+C:\Users\Ah.Rahimi\Documents\GitHub\PACK9710\FinalProject\SaleTicket\SaleTicket\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Ah.Rahimi\Documents\GitHub\PACK9710\FinalProject\SaleTicket\SaleTicket\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Ah.Rahimi\Documents\GitHub\PACK9710\FinalProject\SaleTicket\SaleTicket\bin\Microsoft.Owin.Security.dll
+C:\Users\Ah.Rahimi\Documents\GitHub\PACK9710\FinalProject\SaleTicket\SaleTicket\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Ah.Rahimi\Documents\GitHub\PACK9710\FinalProject\SaleTicket\SaleTicket\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Ah.Rahimi\Documents\GitHub\PACK9710\FinalProject\SaleTicket\SaleTicket\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Ah.Rahimi\Documents\GitHub\PACK9710\FinalProject\SaleTicket\SaleTicket\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Ah.Rahimi\Documents\GitHub\PACK9710\FinalProject\SaleTicket\SaleTicket\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Ah.Rahimi\Documents\GitHub\PACK9710\FinalProject\SaleTicket\SaleTicket\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Ah.Rahimi\Documents\GitHub\PACK9710\FinalProject\SaleTicket\SaleTicket\bin\Newtonsoft.Json.dll
+C:\Users\Ah.Rahimi\Documents\GitHub\PACK9710\FinalProject\SaleTicket\SaleTicket\bin\Owin.dll
+C:\Users\Ah.Rahimi\Documents\GitHub\PACK9710\FinalProject\SaleTicket\SaleTicket\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Ah.Rahimi\Documents\GitHub\PACK9710\FinalProject\SaleTicket\SaleTicket\bin\System.Net.Http.Formatting.dll
+C:\Users\Ah.Rahimi\Documents\GitHub\PACK9710\FinalProject\SaleTicket\SaleTicket\bin\System.Web.Helpers.dll
+C:\Users\Ah.Rahimi\Documents\GitHub\PACK9710\FinalProject\SaleTicket\SaleTicket\bin\System.Web.Http.dll
+C:\Users\Ah.Rahimi\Documents\GitHub\PACK9710\FinalProject\SaleTicket\SaleTicket\bin\System.Web.Http.WebHost.dll
+C:\Users\Ah.Rahimi\Documents\GitHub\PACK9710\FinalProject\SaleTicket\SaleTicket\bin\System.Web.Mvc.dll
+C:\Users\Ah.Rahimi\Documents\GitHub\PACK9710\FinalProject\SaleTicket\SaleTicket\bin\System.Web.Optimization.dll
+C:\Users\Ah.Rahimi\Documents\GitHub\PACK9710\FinalProject\SaleTicket\SaleTicket\bin\System.Web.Razor.dll
+C:\Users\Ah.Rahimi\Documents\GitHub\PACK9710\FinalProject\SaleTicket\SaleTicket\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Ah.Rahimi\Documents\GitHub\PACK9710\FinalProject\SaleTicket\SaleTicket\bin\System.Web.WebPages.dll
+C:\Users\Ah.Rahimi\Documents\GitHub\PACK9710\FinalProject\SaleTicket\SaleTicket\bin\System.Web.WebPages.Razor.dll
+C:\Users\Ah.Rahimi\Documents\GitHub\PACK9710\FinalProject\SaleTicket\SaleTicket\bin\TicketDataLayer.dll
+C:\Users\Ah.Rahimi\Documents\GitHub\PACK9710\FinalProject\SaleTicket\SaleTicket\bin\WebGrease.dll
+C:\Users\Ah.Rahimi\Documents\GitHub\PACK9710\FinalProject\SaleTicket\SaleTicket\bin\TicketDataLayer.pdb
+C:\Users\Ah.Rahimi\Documents\GitHub\PACK9710\FinalProject\SaleTicket\SaleTicket\bin\TicketDataLayer.dll.config
+C:\Users\Ah.Rahimi\Documents\GitHub\PACK9710\FinalProject\SaleTicket\SaleTicket\bin\System.Web.Helpers.xml
+C:\Users\Ah.Rahimi\Documents\GitHub\PACK9710\FinalProject\SaleTicket\SaleTicket\bin\System.Web.Mvc.xml
+C:\Users\Ah.Rahimi\Documents\GitHub\PACK9710\FinalProject\SaleTicket\SaleTicket\bin\System.Web.Optimization.xml
+C:\Users\Ah.Rahimi\Documents\GitHub\PACK9710\FinalProject\SaleTicket\SaleTicket\bin\System.Web.Razor.xml
+C:\Users\Ah.Rahimi\Documents\GitHub\PACK9710\FinalProject\SaleTicket\SaleTicket\bin\System.Web.WebPages.xml
+C:\Users\Ah.Rahimi\Documents\GitHub\PACK9710\FinalProject\SaleTicket\SaleTicket\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Ah.Rahimi\Documents\GitHub\PACK9710\FinalProject\SaleTicket\SaleTicket\bin\System.Web.WebPages.Razor.xml
+C:\Users\Ah.Rahimi\Documents\GitHub\PACK9710\FinalProject\SaleTicket\SaleTicket\bin\Newtonsoft.Json.xml
+C:\Users\Ah.Rahimi\Documents\GitHub\PACK9710\FinalProject\SaleTicket\SaleTicket\bin\Antlr3.Runtime.pdb
+C:\Users\Ah.Rahimi\Documents\GitHub\PACK9710\FinalProject\SaleTicket\SaleTicket\bin\System.Net.Http.Formatting.xml
+C:\Users\Ah.Rahimi\Documents\GitHub\PACK9710\FinalProject\SaleTicket\SaleTicket\bin\System.Web.Http.xml
+C:\Users\Ah.Rahimi\Documents\GitHub\PACK9710\FinalProject\SaleTicket\SaleTicket\bin\System.Web.Http.WebHost.xml
+C:\Users\Ah.Rahimi\Documents\GitHub\PACK9710\FinalProject\SaleTicket\SaleTicket\bin\EntityFramework.xml
+C:\Users\Ah.Rahimi\Documents\GitHub\PACK9710\FinalProject\SaleTicket\SaleTicket\bin\EntityFramework.SqlServer.xml
+C:\Users\Ah.Rahimi\Documents\GitHub\PACK9710\FinalProject\SaleTicket\SaleTicket\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Ah.Rahimi\Documents\GitHub\PACK9710\FinalProject\SaleTicket\SaleTicket\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Ah.Rahimi\Documents\GitHub\PACK9710\FinalProject\SaleTicket\SaleTicket\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Ah.Rahimi\Documents\GitHub\PACK9710\FinalProject\SaleTicket\SaleTicket\bin\Microsoft.Owin.xml
+C:\Users\Ah.Rahimi\Documents\GitHub\PACK9710\FinalProject\SaleTicket\SaleTicket\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Ah.Rahimi\Documents\GitHub\PACK9710\FinalProject\SaleTicket\SaleTicket\bin\Microsoft.Owin.Security.xml
+C:\Users\Ah.Rahimi\Documents\GitHub\PACK9710\FinalProject\SaleTicket\SaleTicket\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Ah.Rahimi\Documents\GitHub\PACK9710\FinalProject\SaleTicket\SaleTicket\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Ah.Rahimi\Documents\GitHub\PACK9710\FinalProject\SaleTicket\SaleTicket\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Ah.Rahimi\Documents\GitHub\PACK9710\FinalProject\SaleTicket\SaleTicket\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Ah.Rahimi\Documents\GitHub\PACK9710\FinalProject\SaleTicket\SaleTicket\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Ah.Rahimi\Documents\GitHub\PACK9710\FinalProject\SaleTicket\SaleTicket\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Ah.Rahimi\Documents\GitHub\PACK9710\FinalProject\SaleTicket\SaleTicket\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Ah.Rahimi\Documents\GitHub\PACK9710\FinalProject\SaleTicket\SaleTicket\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Ah.Rahimi\Documents\GitHub\PACK9710\FinalProject\SaleTicket\SaleTicket\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Ah.Rahimi\Documents\GitHub\PACK9710\FinalProject\SaleTicket\SaleTicket\obj\Debug\SaleTicket.csprojAssemblyReference.cache
+C:\Users\Ah.Rahimi\Documents\GitHub\PACK9710\FinalProject\SaleTicket\SaleTicket\obj\Debug\SaleTicket.csproj.CoreCompileInputs.cache
+C:\Users\Ah.Rahimi\Documents\GitHub\PACK9710\FinalProject\SaleTicket\SaleTicket\obj\Debug\SaleTicket.csproj.CopyComplete
+C:\Users\Ah.Rahimi\Documents\GitHub\PACK9710\FinalProject\SaleTicket\SaleTicket\obj\Debug\SaleTicket.dll
+C:\Users\Ah.Rahimi\Documents\GitHub\PACK9710\FinalProject\SaleTicket\SaleTicket\obj\Debug\SaleTicket.pdb
+C:\Users\Ah.Rahimi\Documents\GitHub\PACK9710\FinalProject\SaleTicket\SaleTicket\bin\TicketViewModel.dll
+C:\Users\Ah.Rahimi\Documents\GitHub\PACK9710\FinalProject\SaleTicket\SaleTicket\bin\TicketViewModel.pdb
+>>>>>>> 62176cb827851e35db95d6b81628acd4d3e526b2

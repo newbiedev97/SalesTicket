@@ -1,0 +1,38 @@
+<<<<<<< HEAD
+C:\Users\vahid Shapouri\Desktop\SalesTicket\TicketDataLayer\bin\Debug\TicketDataLayer.dll.config
+C:\Users\vahid Shapouri\Desktop\SalesTicket\TicketDataLayer\bin\Debug\TicketDataLayer.dll
+C:\Users\vahid Shapouri\Desktop\SalesTicket\TicketDataLayer\bin\Debug\TicketDataLayer.pdb
+C:\Users\vahid Shapouri\Desktop\SalesTicket\TicketDataLayer\bin\Debug\EntityFramework.dll
+C:\Users\vahid Shapouri\Desktop\SalesTicket\TicketDataLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\vahid Shapouri\Desktop\SalesTicket\TicketDataLayer\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\vahid Shapouri\Desktop\SalesTicket\TicketDataLayer\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\vahid Shapouri\Desktop\SalesTicket\TicketDataLayer\bin\Debug\EntityFramework.xml
+C:\Users\vahid Shapouri\Desktop\SalesTicket\TicketDataLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\vahid Shapouri\Desktop\SalesTicket\TicketDataLayer\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\vahid Shapouri\Desktop\SalesTicket\TicketDataLayer\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\vahid Shapouri\Desktop\SalesTicket\TicketDataLayer\obj\Debug\TicketDataLayer.csprojAssemblyReference.cache
+C:\Users\vahid Shapouri\Desktop\SalesTicket\TicketDataLayer\obj\Debug\TicketDataLayer.csproj.CoreCompileInputs.cache
+C:\Users\vahid Shapouri\Desktop\SalesTicket\TicketDataLayer\obj\Debug\TicketDataLayer.csproj.CopyComplete
+C:\Users\vahid Shapouri\Desktop\SalesTicket\TicketDataLayer\obj\Debug\TicketDataLayer.dll
+C:\Users\vahid Shapouri\Desktop\SalesTicket\TicketDataLayer\obj\Debug\TicketDataLayer.pdb
+=======
+C:\Users\Ah.Rahimi\Documents\GitHub\PACK9710\FinalProject\SaleTicket\TicketDataLayer\bin\Debug\TicketDataLayer.dll.config
+C:\Users\Ah.Rahimi\Documents\GitHub\PACK9710\FinalProject\SaleTicket\TicketDataLayer\bin\Debug\TicketDataLayer.dll
+C:\Users\Ah.Rahimi\Documents\GitHub\PACK9710\FinalProject\SaleTicket\TicketDataLayer\bin\Debug\TicketDataLayer.pdb
+C:\Users\Ah.Rahimi\Documents\GitHub\PACK9710\FinalProject\SaleTicket\TicketDataLayer\bin\Debug\EntityFramework.dll
+C:\Users\Ah.Rahimi\Documents\GitHub\PACK9710\FinalProject\SaleTicket\TicketDataLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Ah.Rahimi\Documents\GitHub\PACK9710\FinalProject\SaleTicket\TicketDataLayer\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Ah.Rahimi\Documents\GitHub\PACK9710\FinalProject\SaleTicket\TicketDataLayer\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Ah.Rahimi\Documents\GitHub\PACK9710\FinalProject\SaleTicket\TicketDataLayer\bin\Debug\EntityFramework.xml
+C:\Users\Ah.Rahimi\Documents\GitHub\PACK9710\FinalProject\SaleTicket\TicketDataLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Ah.Rahimi\Documents\GitHub\PACK9710\FinalProject\SaleTicket\TicketDataLayer\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Ah.Rahimi\Documents\GitHub\PACK9710\FinalProject\SaleTicket\TicketDataLayer\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Ah.Rahimi\Documents\GitHub\PACK9710\FinalProject\SaleTicket\TicketDataLayer\obj\Debug\TicketDataLayer.csprojAssemblyReference.cache
+C:\Users\Ah.Rahimi\Documents\GitHub\PACK9710\FinalProject\SaleTicket\TicketDataLayer\obj\Debug\TicketDataLayer.csproj.CoreCompileInputs.cache
+C:\Users\Ah.Rahimi\Documents\GitHub\PACK9710\FinalProject\SaleTicket\TicketDataLayer\obj\Debug\TicketDataLayer.csproj.CopyComplete
+C:\Users\Ah.Rahimi\Documents\GitHub\PACK9710\FinalProject\SaleTicket\TicketDataLayer\obj\Debug\TicketDataLayer.dll
+C:\Users\Ah.Rahimi\Documents\GitHub\PACK9710\FinalProject\SaleTicket\TicketDataLayer\obj\Debug\TicketDataLayer.pdb
+C:\Users\Ah.Rahimi\Documents\GitHub\PACK9710\FinalProject\SaleTicket\TicketDataLayer\obj\Debug\TicketDataLayer.Migrations.InitialCreate.resources
+C:\Users\Ah.Rahimi\Documents\GitHub\PACK9710\FinalProject\SaleTicket\TicketDataLayer\obj\Debug\TicketDataLayer.csproj.GenerateResource.cache
+C:\Users\Ah.Rahimi\Documents\GitHub\PACK9710\FinalProject\SaleTicket\TicketDataLayer\obj\Debug\TicketDataLayer.Migrations.FullName_Added.resources
+>>>>>>> 62176cb827851e35db95d6b81628acd4d3e526b2
