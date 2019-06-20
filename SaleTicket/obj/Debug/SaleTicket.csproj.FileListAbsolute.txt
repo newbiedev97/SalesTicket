@@ -1,5 +1,4 @@
 <<<<<<< HEAD
-<<<<<<< HEAD
 C:\Users\vahid Shapouri\Desktop\SalesTicket\SaleTicket\bin\SaleTicket.dll.config
 C:\Users\vahid Shapouri\Desktop\SalesTicket\SaleTicket\bin\SaleTicket.dll
 C:\Users\vahid Shapouri\Desktop\SalesTicket\SaleTicket\bin\SaleTicket.pdb
@@ -120,7 +119,6 @@ C:\Users\vahid Shapouri\Desktop\SalesTicket\SaleTicket\obj\Debug\SaleTicket.cspr
 C:\Users\vahid Shapouri\Desktop\SalesTicket\SaleTicket\obj\Debug\SaleTicket.csproj.CopyComplete
 C:\Users\vahid Shapouri\Desktop\SalesTicket\SaleTicket\obj\Debug\SaleTicket.dll
 C:\Users\vahid Shapouri\Desktop\SalesTicket\SaleTicket\obj\Debug\SaleTicket.pdb
-=======
 =======
 >>>>>>> faa5d8aa0a4415c668b7d572c9eb5ca42d02a394
 C:\Users\Ah.Rahimi\Source\Repos\FinalProject\SaleTicket\SaleTicket\bin\SaleTicket.dll.config
@@ -358,7 +356,4 @@ C:\Users\Ah.Rahimi\Documents\GitHub\PACK9710\FinalProject\SaleTicket\SaleTicket\
 C:\Users\Ah.Rahimi\Documents\GitHub\PACK9710\FinalProject\SaleTicket\SaleTicket\obj\Debug\SaleTicket.pdb
 C:\Users\Ah.Rahimi\Documents\GitHub\PACK9710\FinalProject\SaleTicket\SaleTicket\bin\TicketViewModel.dll
 C:\Users\Ah.Rahimi\Documents\GitHub\PACK9710\FinalProject\SaleTicket\SaleTicket\bin\TicketViewModel.pdb
-<<<<<<< HEAD
 >>>>>>> 62176cb827851e35db95d6b81628acd4d3e526b2
-=======
->>>>>>> faa5d8aa0a4415c668b7d572c9eb5ca42d02a394
