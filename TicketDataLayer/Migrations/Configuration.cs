@@ -5,15 +5,14 @@ namespace TicketDataLayer.Migrations
     using System.Data.Entity.Migrations;
     using System.Linq;
 
-    internal sealed class Configuration : DbMigrationsConfiguration<SaleTicket.Models.ApplicationDbContext>
+    internal sealed class Configuration : DbMigrationsConfiguration<Ticket.Models.ApplicationDbContext>
     {
         public Configuration()
         {
             AutomaticMigrationsEnabled = false;
-            ContextKey = "SaleTicket.Models.ApplicationDbContext";
         }
 
-        protected override void Seed(SaleTicket.Models.ApplicationDbContext context)
+        protected override void Seed(Ticket.Models.ApplicationDbContext context)
         {
             //  This method will be called after migrating to the latest version.
 
