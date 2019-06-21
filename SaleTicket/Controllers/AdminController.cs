@@ -1,21 +1,21 @@
 ﻿using Microsoft.AspNet.Identity;
 using Microsoft.AspNet.Identity.EntityFramework;
-using SaleTicket.Models;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Web;
 using System.Web.Mvc;
+using Ticket.Models;
 using TicketViewModel.UserViewModel;
 
-namespace SaleTicket.Controllers
+namespace SaleTicket
 {
     public class AdminController : Controller
     {
         // GET: Admin
+        [Authorize(Roles ="Admin")]
         public ActionResult Index()
-        {
-            
+        {  
             return View();
         }
 
@@ -25,22 +25,19 @@ namespace SaleTicket.Controllers
             var usersWithRoles = (from user in db.Users
                                   select new
                                   {
-                                      UserID = user.Id,
+                                      UserId = user.Id,
                                       UserName = user.UserName,
                                       Email = user.Email,
                                       EmailConfirm = user.EmailConfirmed,
                                       RoleName = (from userRole in user.Roles join role in db.Roles on userRole.RoleId equals role.Id select role.Name).ToList()
-
                                   }).ToList().Select(u => new UserInfoViewModel()
                                   {
-                                      userID = u.UserID,
-                                      UserName = u.UserName,
-                                      Email = u.Email,
-                                      EmailConfirm = u.EmailConfirm,
-                                      RoleName = string.Join(",", u.RoleName)
-                                  }
-            );
-
+                                      UserId=u.UserId,
+                                      UserName=u.UserName,
+                                      Email=u.Email,
+                                      EmailConfirm=u.EmailConfirm,
+                                      RoleName=string.Join(",",u.RoleName)
+                                  });
 
             return PartialView(usersWithRoles);
         }
@@ -49,34 +46,29 @@ namespace SaleTicket.Controllers
         {
             ApplicationDbContext db = new ApplicationDbContext();
             var roles = db.Roles.ToList();
-            return PartialView(roles);
+            return PartialView(roles); 
         }
 
-
-        public ActionResult CrateUser()
+        public ActionResult CreateUser()
         {
             return PartialView();
         }
-
         [HttpPost]
-        public ActionResult CrateUser(FormCollection form)
+        public ActionResult CreateUser(FormCollection form)
         {
-
             ApplicationDbContext db = new ApplicationDbContext();
-
             var userMgr = new UserManager<ApplicationUser>(new UserStore<ApplicationUser>(db));
 
             string FullName = form["txtName"];
             string Email = form["txtEmail"];
             string UserName = form["txtUserName"];
-            string password = form["txtPassword"];
+            string password = form["txtPass"];
 
             var user = new ApplicationUser();
             user.Email = Email;
             user.UserName = UserName;
             user.FullName = FullName;
             userMgr.Create(user, password);
-
 
 
             return RedirectToAction("Index");
@@ -93,59 +85,48 @@ namespace SaleTicket.Controllers
             ApplicationDbContext db = new ApplicationDbContext();
             string roleName = form["txtRole"];
             var roleMgr = new RoleManager<IdentityRole>(new RoleStore<IdentityRole>(db));
-<<<<<<< HEAD
-            if(!roleMgr.RoleExists(roleName))
-=======
+
             if (!roleMgr.RoleExists(roleName))
->>>>>>> faa5d8aa0a4415c668b7d572c9eb5ca42d02a394
             {
                 var role = new IdentityRole(roleName);
                 roleMgr.Create(role);
             }
+
             return RedirectToAction("Index");
         }
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
 
-        public ActionResult AssignRole()
+        public ActionResult AssigneRole()
         {
             ApplicationDbContext db = new ApplicationDbContext();
             var roleList = new SelectList(db.Roles.ToList(), "Name", "Name");
             var userList = new SelectList(db.Users.Where(u => u.Roles.Count == 0).ToList(), "Id", "UserName");
+
             ViewBag.Role = roleList;
             ViewBag.User = userList;
             return PartialView();
         }
 
         [HttpPost]
-        public ActionResult AssignRole(FormCollection form)
+        public ActionResult AssigneRole(FormCollection form)
         {
             ApplicationDbContext db = new ApplicationDbContext();
-            var RoleName = form["Role"];
-            var userID = form["User"];
-            ApplicationUser user = db.Users.Where(u => u.Id == userID).FirstOrDefault();
-            var userMgr = new UserManager<ApplicationUser>(new UserStore<ApplicationUser>(db));
-            userMgr.AddToRole(userID, RoleName);
 
+            var roleName = form["Role"];
+            var userId = form["User"];
+
+            ApplicationUser user = db.Users.Where(u => u.Id == userId).FirstOrDefault();
+            var userMgr = new UserManager<ApplicationUser>(new UserStore<ApplicationUser>(db));
+
+            userMgr.AddToRole(userId, roleName);
             return RedirectToAction("Index");
         }
->>>>>>> faa5d8aa0a4415c668b7d572c9eb5ca42d02a394
-=======
 
-        //public ActionResult CreateRole(FormCollection form)
-        //{
-        //    ApplicationDbContext db = new ApplicationDbContext();
-        //    string roleName = form["txtRole"];
-        //    var roleMgr = new RoleManager<IdentityRole>(new RoleStore<IdentityRole>(db));
-        //    if (!roleMgr.RoleExists(roleName))
-        //    {
-        //        var role = new IdentityRole(roleName);
-        //        roleMgr.Create(role);
-        //    }
-        //    return RedirectToAction("Index");
-        //}
->>>>>>> 7a78325cc3ff80b80cbd06d1d58b89ef22bb2b07
+        [HttpPost]
+        public ActionResult LogOutAdmin()
+        {
+            HttpContext.GetOwinContext().Authentication.SignOut(DefaultAuthenticationTypes.ApplicationCookie);
+            return RedirectToAction("Index", "Default");
+        }
+
     }
-}
 }
