@@ -10,7 +10,7 @@ using Ticket.Models;
 using TicketDataLayer.Context;
 using TicketDataLayer.Model;
 
-namespace Ticket.Controllers
+namespace SaleTicket
 {
     [Authorize(Roles = "Admin")]
     public class FlightsController : Controller
